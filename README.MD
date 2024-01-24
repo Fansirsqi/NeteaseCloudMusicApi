@@ -1,6 +1,6 @@
-# 网易云音乐 API
+# ***音乐 API
 
-网易云音乐 Node.js API service
+***音乐 Node.js API service
 
 <p>
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/badge/npm-v4.14.2-brightgreen?style=flat&logo=npm&labelColor=%236d6d6d&color=%230b7dbd&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F
