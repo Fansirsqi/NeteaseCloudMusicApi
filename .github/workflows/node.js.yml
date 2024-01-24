@@ -27,6 +27,8 @@ jobs:
         key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
           ${{ runner.os }}-node-
+    - name: Temporarily disable SSL
+      run: npm set strict-ssl false
     - run: npm ci
       name: Install dependencies
     - name: Test
