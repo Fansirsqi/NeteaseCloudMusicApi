@@ -3,28 +3,32 @@
 网易云音乐 Node.js API service
 
 <p>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/v/NeteaseCloudMusicApi.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/badge/npm-v4.14.2-brightgreen?style=flat&logo=npm&labelColor=%236d6d6d&color=%230b7dbd&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F
+" alt="Version"></a>
 <a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/l/NeteaseCloudMusicApi.svg" alt="License"></a>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/david/dev/binaryify/NeteaseCloudMusicApi.svg" alt="devDependencies" ></a>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/david/binaryify/NeteaseCloudMusicApi.svg" alt="devDependencies" ></a>
+<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi?activeTab=code"><img src="https://img.shields.io/badge/NeteaseCloudMusicApi-API-brightgreen?style=flat&logo=neteasecloudmusic&logoColor=de362e&label=NeteaseCloudMusicApi&labelColor=666&color=%238dbb05&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F" alt="devDependencies" ></a>
+<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi?activeTab=dependencies"><img src="https://img.shields.io/badge/npm-dependencies-brightgreen?style=flat&logo=npm&logoColor=de362e&labelColor=666&color=%23cb0303&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F
+" alt="devDependencies" ></a>
 <a href="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi"><img src="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi/badges/gpa.svg" /></a>
+
 </p>
 
 
+
 ## 灵感来自
+<a href="https://github.com/disoul/electron-cloud-music"><img alt="Static Badge" src="https://img.shields.io/badge/electron--cloud--music-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=666&color=%2397ca00&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F">
+</a>
+<a href="https://github.com/darknessomi/musicbox"><img alt="Static Badge" src="https://img.shields.io/badge/musicbox-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=666&color=%2397ca00&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F">
+</a>
+<a href="https://github.com/sqaiyan/netmusic-node"><img alt="Static Badge" src="https://img.shields.io/badge/netmusic--node-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=%23ff9632&color=%23ffd849&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F">
+</a>
+<a href="https://github.com/greats3an/pyncm"><img alt="Static Badge" src="https://img.shields.io/badge/PyNCM-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=%233775a8&color=%23ffd849&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F"></a>
 
-[disoul/electron-cloud-music](https://github.com/disoul/electron-cloud-music)
-
-[darknessomi/musicbox](https://github.com/darknessomi/musicbox)
-
-[sqaiyan/netmusic-node](https://github.com/sqaiyan/netmusic-node)
-
-[greats3an/pyncm](https://github.com/greats3an/pyncm)
 
 
 ## 环境要求
 
-需要 NodeJS 12+ 环境
+需要 `NodeJS 12+` 环境
 
 ## 安装
 
@@ -43,7 +47,7 @@ $ npm install
 ```
 
 ## 运行
-调用前务必阅读文档的`调用前须知`
+调用前务必阅读文档的[调用前须知](./docs/README.md#接口文档)
 
 ```shell
 $ node app.js
@@ -128,12 +132,9 @@ banner({ type:0 }).then(res=>{
 
 ## 使用文档
 
-[文档地址](https://binaryify.github.io/NeteaseCloudMusicApi) 
+> [文档地址](https://blog.fansirai.top/NeteaseCloudMusicApi/#/)
 
-[文档地址2](https://neteasecloudmusicapi.vercel.app)
-
-![文档](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/docs.png)
-
+![文档](./static/docs.png)
 
 ## 功能特性
 
@@ -392,7 +393,7 @@ banner({ type:0 }).then(res=>{
 
 ## 更新日志
 
-[changelog](https://github.com/Binaryify/NeteaseCloudMusicApi/blob/master/CHANGELOG.MD)
+[更新日志](./CHANGELOG.MD)
 
 ## 单元测试
 
@@ -400,15 +401,16 @@ banner({ type:0 }).then(res=>{
 $ npm test
 ```
 
-![单元测试](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/screenshot1.png)
-![单元测试](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/screenshot2.png)
+![单元测试](./static/screenshot1.png)
+
+![单元测试](./static/screenshot2.png)
 
 ## SDK
 
-| 语言 |                    作者                     |                             地址                             |  类型  |
-| :--: | :-----------------------------------------: | :----------------------------------------------------------: | :----: |
-| Java |    [JackuXL](https://github.com/JackuXL)    | [https://github.com/JackuXL/NeteaseCloudMusicApi-SDK](https://github.com/JackuXL/NeteaseCloudMusicApi-SDK) | 第三方 |
-| Java | [1015770492](https://github.com/1015770492) |       https://github.com/1015770492/yumbo-music-utils        | 第三方 |
+| 语言  |                    作者                     |                                                    地址                                                    |  类型  |
+| :---: | :-----------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :----: |
+| Java  |    [JackuXL](https://github.com/JackuXL)    | [https://github.com/JackuXL/NeteaseCloudMusicApi-SDK](https://github.com/JackuXL/NeteaseCloudMusicApi-SDK) | 第三方 |
+| Java  | [1015770492](https://github.com/1015770492) |                              https://github.com/1015770492/yumbo-music-utils                               | 第三方 |
 
 ## 贡献者
 
