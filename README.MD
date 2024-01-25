@@ -2,26 +2,22 @@
 
 ***音乐 Node.js API service
 
-<p>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/badge/npm-v4.14.2-brightgreen?style=flat&logo=npm&labelColor=%236d6d6d&color=%230b7dbd&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F
-" alt="Version"></a>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/l/NeteaseCloudMusicApi.svg" alt="License"></a>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi?activeTab=code"><img src="https://img.shields.io/badge/NeteaseCloudMusicApi-API-brightgreen?style=flat&logo=neteasecloudmusic&logoColor=de362e&label=NeteaseCloudMusicApi&labelColor=666&color=%238dbb05&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F" alt="devDependencies" ></a>
-<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi?activeTab=dependencies"><img src="https://img.shields.io/badge/npm-dependencies-brightgreen?style=flat&logo=npm&logoColor=de362e&labelColor=666&color=%23cb0303&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F
-" alt="devDependencies" ></a>
-<a href="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi"><img src="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi/badges/gpa.svg" /></a>
 
-</p>
+~~<a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/badge/npm-v4.14.2-brightgreen?style=flat&logo=npm&labelColor=%236d6d6d&color=%230b7dbd&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F" alt="Version"></a><a href="https://www.npmjs.com/package/NeteaseCloudMusicApi"><img src="https://img.shields.io/npm/l/NeteaseCloudMusicApi.svg" alt="License"></a><a href="https://www.npmjs.com/package/NeteaseCloudMusicApi?activeTab=code"><img src="https://img.shields.io/badge/NeteaseCloudMusicApi-API-brightgreen?style=flat&logo=neteasecloudmusic&logoColor=de362e&label=NeteaseCloudMusicApi&labelColor=666&color=%238dbb05&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F" alt="devDependencies" ></a><a href="https://www.npmjs.com/package/NeteaseCloudMusicApi?activeTab=dependencies"><img src="https://img.shields.io/badge/npm-dependencies-brightgreen?style=flat&logo=npm&logoColor=de362e&labelColor=666&color=%23cb0303&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F" alt="devDependencies" ></a><a href="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi"><img src="https://codeclimate.com/github/Binaryify/NeteaseCloudMusicApi/badges/gpa.svg" /></a>~~
 
 
 
 ## 灵感来自
+
 <a href="https://github.com/disoul/electron-cloud-music"><img alt="Static Badge" src="https://img.shields.io/badge/electron--cloud--music-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=666&color=%2397ca00&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F">
 </a>
+
 <a href="https://github.com/darknessomi/musicbox"><img alt="Static Badge" src="https://img.shields.io/badge/musicbox-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=666&color=%2397ca00&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F">
 </a>
+
 <a href="https://github.com/sqaiyan/netmusic-node"><img alt="Static Badge" src="https://img.shields.io/badge/netmusic--node-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=%23ff9632&color=%23ffd849&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F">
 </a>
+
 <a href="https://github.com/greats3an/pyncm"><img alt="Static Badge" src="https://img.shields.io/badge/PyNCM-Project-brightgreen?style=flat&logo=github&logoColor=%231c1f26&labelColor=%233775a8&color=%23ffd849&link=https%3A%2F%2Fblog.fansirai.top%2FNeteaseCloudMusicApi%2F%23%2F"></a>
 
 
